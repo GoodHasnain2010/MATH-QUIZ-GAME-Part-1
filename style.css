@@ -1,0 +1,60 @@
+body
+{
+	background: gold;
+}
+
+	.login_div_1 , .login_div_2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+.main_heading{
+    font-family: 'Kablammo', cursive;
+}
+h3{
+    font-family: 'Anton', sans-serif;
+}
+label{
+    font-family: 'Oswald', sans-serif;
+}
+::-webkit-input-placeholder{
+    font-family: 'Inter', sans-serif;
+}
+button{
+    font-family: 'Abril Fatface', cursive;
+}
+.logo{
+    font-family: 'Abril Fatface', cursive;
+    color: white;
+}
+h6{
+    color: white;
+    font-family: 'Pacifico', cursive;
+
+}
